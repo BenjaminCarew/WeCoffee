@@ -29,5 +29,24 @@
         font-family: "Courier New", Courier, monospace;
         font-size: 25px;
     }
- </style>
+  </style>
+  <body>
+
+    <div class="bgimg">
+      <div class="topleft">
+        <p>Logo</p>
+      </div>
+      <div class="middle">
+        <h1>COMING SOON</h1>
+        <hr>
+        <p>35 days left</p>
+      </div>
+      <div class="bottomleft">
+        <p>Some text</p>
+      </div>
+    </div>
+
+  </body>
+</html>
+ 
 </html>
