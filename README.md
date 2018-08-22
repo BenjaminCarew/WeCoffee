@@ -1,9 +1,9 @@
 #WeCoffee
 <html>
   <head>
-    <title>My First Web Page!</title>
+    My First Web Page!
   </head>
   <body>
-    <h1>Hello World!</h1>
+    Hello World!
   </body>
 </html>
