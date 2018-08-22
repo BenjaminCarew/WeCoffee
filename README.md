@@ -1,8 +1,13 @@
 <html>
-  <head>
-    My First Web Page!
-  </head>
-  <body>
-    Hello World!
-  </body>
+
+<head>
+    <title>My First HTML Page</title>
+</head>
+
+<body>
+
+    My name is Benjamin
+
+</body>
+
 </html>
