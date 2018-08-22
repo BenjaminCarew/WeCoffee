@@ -1,4 +1,3 @@
-#WeCoffee
 <html>
   <head>
     My First Web Page!
